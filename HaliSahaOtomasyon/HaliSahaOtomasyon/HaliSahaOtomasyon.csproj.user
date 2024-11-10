@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Compile Update="frmAnaEkran.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="frmSahaBilgiDuzenlemeEkrani.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="frmSahaKayitEkrani.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="frmSecimEkrani.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="popupMenu.cs">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>

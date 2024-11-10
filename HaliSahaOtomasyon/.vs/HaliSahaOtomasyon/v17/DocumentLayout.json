@@ -1,0 +1,185 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\AHMET\\source\\repos\\HaliSahaOtomasyon\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{32042FD9-8BD9-419F-ABCD-1320D21B5446}|HaliSahaOtomasyon\\HaliSahaOtomasyon.csproj|c:\\users\\ahmet\\source\\repos\\halisahaotomasyon\\halisahaotomasyon\\frmsahakayitekrani.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32042FD9-8BD9-419F-ABCD-1320D21B5446}|HaliSahaOtomasyon\\HaliSahaOtomasyon.csproj|solutionrelative:halisahaotomasyon\\frmsahakayitekrani.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32042FD9-8BD9-419F-ABCD-1320D21B5446}|HaliSahaOtomasyon\\HaliSahaOtomasyon.csproj|c:\\users\\ahmet\\source\\repos\\halisahaotomasyon\\halisahaotomasyon\\popupmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{32042FD9-8BD9-419F-ABCD-1320D21B5446}|HaliSahaOtomasyon\\HaliSahaOtomasyon.csproj|solutionrelative:halisahaotomasyon\\popupmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32042FD9-8BD9-419F-ABCD-1320D21B5446}|HaliSahaOtomasyon\\HaliSahaOtomasyon.csproj|C:\\Users\\AHMET\\source\\repos\\HaliSahaOtomasyon\\halisahaotomasyon\\frmsahakayitekrani.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{32042FD9-8BD9-419F-ABCD-1320D21B5446}|HaliSahaOtomasyon\\HaliSahaOtomasyon.csproj|solutionrelative:halisahaotomasyon\\frmsahakayitekrani.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32042FD9-8BD9-419F-ABCD-1320D21B5446}|HaliSahaOtomasyon\\HaliSahaOtomasyon.csproj|C:\\Users\\AHMET\\source\\repos\\HaliSahaOtomasyon\\halisahaotomasyon\\frmsecimekrani.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{32042FD9-8BD9-419F-ABCD-1320D21B5446}|HaliSahaOtomasyon\\HaliSahaOtomasyon.csproj|solutionrelative:halisahaotomasyon\\frmsecimekrani.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32042FD9-8BD9-419F-ABCD-1320D21B5446}|HaliSahaOtomasyon\\HaliSahaOtomasyon.csproj|c:\\users\\ahmet\\source\\repos\\halisahaotomasyon\\halisahaotomasyon\\frmsecimekrani.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32042FD9-8BD9-419F-ABCD-1320D21B5446}|HaliSahaOtomasyon\\HaliSahaOtomasyon.csproj|solutionrelative:halisahaotomasyon\\frmsecimekrani.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32042FD9-8BD9-419F-ABCD-1320D21B5446}|HaliSahaOtomasyon\\HaliSahaOtomasyon.csproj|c:\\users\\ahmet\\source\\repos\\halisahaotomasyon\\halisahaotomasyon\\frmsahabilgiduzenlemeekrani.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32042FD9-8BD9-419F-ABCD-1320D21B5446}|HaliSahaOtomasyon\\HaliSahaOtomasyon.csproj|solutionrelative:halisahaotomasyon\\frmsahabilgiduzenlemeekrani.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32042FD9-8BD9-419F-ABCD-1320D21B5446}|HaliSahaOtomasyon\\HaliSahaOtomasyon.csproj|c:\\users\\ahmet\\source\\repos\\halisahaotomasyon\\halisahaotomasyon\\frmsahabilgiduzenlemeekrani.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{32042FD9-8BD9-419F-ABCD-1320D21B5446}|HaliSahaOtomasyon\\HaliSahaOtomasyon.csproj|solutionrelative:halisahaotomasyon\\frmsahabilgiduzenlemeekrani.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32042FD9-8BD9-419F-ABCD-1320D21B5446}|HaliSahaOtomasyon\\HaliSahaOtomasyon.csproj|c:\\users\\ahmet\\source\\repos\\halisahaotomasyon\\halisahaotomasyon\\frmsahabilgiduzenlemeekrani.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32042FD9-8BD9-419F-ABCD-1320D21B5446}|HaliSahaOtomasyon\\HaliSahaOtomasyon.csproj|solutionrelative:halisahaotomasyon\\frmsahabilgiduzenlemeekrani.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32042FD9-8BD9-419F-ABCD-1320D21B5446}|HaliSahaOtomasyon\\HaliSahaOtomasyon.csproj|C:\\Users\\AHMET\\source\\repos\\HaliSahaOtomasyon\\halisahaotomasyon\\frmanaekran.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{32042FD9-8BD9-419F-ABCD-1320D21B5446}|HaliSahaOtomasyon\\HaliSahaOtomasyon.csproj|solutionrelative:halisahaotomasyon\\frmanaekran.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 252,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            }
+          ]
+        },
+        {
+          "DockedHeight": 148,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{004be353-6879-467c-9d1e-9ac23cdf6d49}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "popupMenu.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\AHMET\\source\\repos\\HaliSahaOtomasyon\\HaliSahaOtomasyon\\popupMenu.cs",
+              "RelativeDocumentMoniker": "HaliSahaOtomasyon\\popupMenu.cs",
+              "ToolTip": "C:\\Users\\AHMET\\source\\repos\\HaliSahaOtomasyon\\HaliSahaOtomasyon\\popupMenu.cs [Design]",
+              "RelativeToolTip": "HaliSahaOtomasyon\\popupMenu.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-10T19:48:27.043Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "frmSecimEkrani.cs",
+              "DocumentMoniker": "C:\\Users\\AHMET\\source\\repos\\HaliSahaOtomasyon\\HaliSahaOtomasyon\\frmSecimEkrani.cs",
+              "RelativeDocumentMoniker": "HaliSahaOtomasyon\\frmSecimEkrani.cs",
+              "ToolTip": "C:\\Users\\AHMET\\source\\repos\\HaliSahaOtomasyon\\HaliSahaOtomasyon\\frmSecimEkrani.cs",
+              "RelativeToolTip": "HaliSahaOtomasyon\\frmSecimEkrani.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAqwCQAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-10T19:24:13.655Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "frmSahaBilgiDuzenlemeEkrani.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\AHMET\\source\\repos\\HaliSahaOtomasyon\\HaliSahaOtomasyon\\frmSahaBilgiDuzenlemeEkrani.Designer.cs",
+              "RelativeDocumentMoniker": "HaliSahaOtomasyon\\frmSahaBilgiDuzenlemeEkrani.Designer.cs",
+              "ToolTip": "C:\\Users\\AHMET\\source\\repos\\HaliSahaOtomasyon\\HaliSahaOtomasyon\\frmSahaBilgiDuzenlemeEkrani.Designer.cs",
+              "RelativeToolTip": "HaliSahaOtomasyon\\frmSahaBilgiDuzenlemeEkrani.Designer.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAewBYAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-10T17:53:43.592Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "frmSahaKayitEkrani.cs",
+              "DocumentMoniker": "C:\\Users\\AHMET\\source\\repos\\HaliSahaOtomasyon\\HaliSahaOtomasyon\\frmSahaKayitEkrani.cs",
+              "RelativeDocumentMoniker": "HaliSahaOtomasyon\\frmSahaKayitEkrani.cs",
+              "ToolTip": "C:\\Users\\AHMET\\source\\repos\\HaliSahaOtomasyon\\HaliSahaOtomasyon\\frmSahaKayitEkrani.cs",
+              "RelativeToolTip": "HaliSahaOtomasyon\\frmSahaKayitEkrani.cs",
+              "ViewState": "AgIAAGcAAAAAAAAAAAAowHkAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-10T12:00:37.91Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "frmSahaBilgiDuzenlemeEkrani.cs",
+              "DocumentMoniker": "C:\\Users\\AHMET\\source\\repos\\HaliSahaOtomasyon\\HaliSahaOtomasyon\\frmSahaBilgiDuzenlemeEkrani.cs",
+              "RelativeDocumentMoniker": "HaliSahaOtomasyon\\frmSahaBilgiDuzenlemeEkrani.cs",
+              "ToolTip": "C:\\Users\\AHMET\\source\\repos\\HaliSahaOtomasyon\\HaliSahaOtomasyon\\frmSahaBilgiDuzenlemeEkrani.cs",
+              "RelativeToolTip": "HaliSahaOtomasyon\\frmSahaBilgiDuzenlemeEkrani.cs",
+              "ViewState": "AgIAACkAAAAAAAAAAAAAAEQAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-10T12:53:33.694Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "frmSahaBilgiDuzenlemeEkrani.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\AHMET\\source\\repos\\HaliSahaOtomasyon\\HaliSahaOtomasyon\\frmSahaBilgiDuzenlemeEkrani.cs",
+              "RelativeDocumentMoniker": "HaliSahaOtomasyon\\frmSahaBilgiDuzenlemeEkrani.cs",
+              "ToolTip": "C:\\Users\\AHMET\\source\\repos\\HaliSahaOtomasyon\\HaliSahaOtomasyon\\frmSahaBilgiDuzenlemeEkrani.cs [Design]",
+              "RelativeToolTip": "HaliSahaOtomasyon\\frmSahaBilgiDuzenlemeEkrani.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-09T18:53:48.293Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "frmSahaKayitEkrani.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\AHMET\\source\\repos\\HaliSahaOtomasyon\\HaliSahaOtomasyon\\frmSahaKayitEkrani.cs",
+              "RelativeDocumentMoniker": "HaliSahaOtomasyon\\frmSahaKayitEkrani.cs",
+              "ToolTip": "C:\\Users\\AHMET\\source\\repos\\HaliSahaOtomasyon\\HaliSahaOtomasyon\\frmSahaKayitEkrani.cs [Design]",
+              "RelativeToolTip": "HaliSahaOtomasyon\\frmSahaKayitEkrani.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-09T18:53:10.352Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "frmSecimEkrani.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\AHMET\\source\\repos\\HaliSahaOtomasyon\\HaliSahaOtomasyon\\frmSecimEkrani.cs",
+              "RelativeDocumentMoniker": "HaliSahaOtomasyon\\frmSecimEkrani.cs",
+              "ToolTip": "C:\\Users\\AHMET\\source\\repos\\HaliSahaOtomasyon\\HaliSahaOtomasyon\\frmSecimEkrani.cs [Design]",
+              "RelativeToolTip": "HaliSahaOtomasyon\\frmSecimEkrani.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-09T18:39:40.955Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "frmAnaEkran.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\AHMET\\source\\repos\\HaliSahaOtomasyon\\HaliSahaOtomasyon\\frmAnaEkran.cs",
+              "RelativeDocumentMoniker": "HaliSahaOtomasyon\\frmAnaEkran.cs",
+              "ToolTip": "C:\\Users\\AHMET\\source\\repos\\HaliSahaOtomasyon\\HaliSahaOtomasyon\\frmAnaEkran.cs [Design]",
+              "RelativeToolTip": "HaliSahaOtomasyon\\frmAnaEkran.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-09T18:28:45.63Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
